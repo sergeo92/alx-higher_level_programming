@@ -1,1 +1,1 @@
-Shell script that runs a Python script.
+Python script that display a text
