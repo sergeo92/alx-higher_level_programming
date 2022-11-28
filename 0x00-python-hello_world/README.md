@@ -1,1 +1,1 @@
-Python script that display a text
+Python script that print text" 
