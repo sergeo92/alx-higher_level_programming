@@ -1,1 +1,1 @@
-object-oriented programming with Python
+Print “The Zen of Python”, by TimPeters
