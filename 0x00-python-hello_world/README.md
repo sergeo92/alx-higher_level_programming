@@ -1,1 +1,1 @@
-Python script that print text" 
+print float number
