@@ -1,1 +1,1 @@
- print Welcome to Holberton School!
+Cut string
