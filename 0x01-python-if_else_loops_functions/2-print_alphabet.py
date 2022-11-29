@@ -2,7 +2,7 @@
 
 def print_lower_alphabet():
     for letter in "abcdefghijklmnopqrstuvwxyz":
-        print(f"{letter}", end="")
+        print('{}'.format(letter), end="")
 
 
 def main():
