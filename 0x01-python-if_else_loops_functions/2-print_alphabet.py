@@ -1,4 +1,13 @@
 #!/usr/bin/python3
 
-for letter in "abcdefghijklmnopqrstuvwxyz":
-    print(letter, end="")
+def print_lower_alphabet():
+    for letter in "abcdefghijklmnopqrstuvwxyz":
+        print(letter, end="")
+
+
+def main():
+    print_lower_alphabet()
+
+
+if __name__ == "__main__":
+    main()
