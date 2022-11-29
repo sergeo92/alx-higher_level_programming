@@ -1,1 +1,1 @@
-assign a random signed number to the variable number each time it is executed.
+Prints the ASCII alphabet, in lowercase
