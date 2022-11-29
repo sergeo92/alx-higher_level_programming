@@ -1,1 +1,1 @@
-Cut string
+object-oriented programming with Python
