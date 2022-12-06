@@ -7,8 +7,8 @@ def multiple_returns(sentence):
     
         if lenght == 0:
             return (lenght, None)
-        else:
-            return (lenght, sentence[0])
+
+         return (lenght, sentence[0])
 
 
 if __name__ == "__main__":
